@@ -1,3 +1,1 @@
-# Iris-recognition-deep-learning
-The Iris Recognition Using Deep Learning project applies convolutional neural networks to classify iris patterns from eye images. Three pre-trained architectures—VGG, GoogLeNet, and MobileNet—were fine-tuned and evaluated for this task. Each model was trained in three configurations: standard training (baseline), with dropout layers to mitigate overfitting, and with early stopping to optimize training duration and prevent performance degradation. This systematic evaluation highlights how regularization techniques and training control affect model accuracy, generalization, and efficiency in biometric recognition systems.
 
